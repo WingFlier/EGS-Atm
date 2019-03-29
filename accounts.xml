@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<accounts>
+    <account>
+        <holderid>1</holderid>
+        <cardnumber>74565448</cardnumber>
+        <issuerbank>HSBC</issuerbank>
+        <balance>350000</balance>
+    </account>
+    <account>
+        <holderid>1</holderid>
+        <cardnumber>9654987324</cardnumber>
+        <issuerbank>EVOCA</issuerbank>
+        <balance>35000000</balance>
+    </account>
+    <account>
+        <holderid>1</holderid>
+        <cardnumber>598797</cardnumber>
+        <issuerbank>AMERIA</issuerbank>
+        <balance>35000000</balance>
+    </account>
+
+    <account>
+        <holderid>2</holderid>
+        <cardnumber>74325448</cardnumber>
+        <issuerbank>HSBC</issuerbank>
+        <balance>20500</balance>
+    </account>
+    <account>
+        <holderid>2</holderid>
+        <cardnumber>9654988972</cardnumber>
+        <issuerbank>EVOCA</issuerbank>
+        <balance>20500</balance>
+    </account>
+    <account>
+        <holderid>2</holderid>
+        <cardnumber>598897</cardnumber>
+        <issuerbank>AMERIA</issuerbank>
+        <balance>20500</balance>
+    </account>
+
+    <account>
+        <holderid>3</holderid>
+        <cardnumber>74321448</cardnumber>
+        <issuerbank>HSBC</issuerbank>
+        <balance>100000</balance>
+    </account>
+    <account>
+        <holderid>3</holderid>
+        <cardnumber>9654654231</cardnumber>
+        <issuerbank>EVOCA</issuerbank>
+        <balance>100000</balance>
+    </account>
+    <account>
+        <holderid>3</holderid>
+        <cardnumber>521546</cardnumber>
+        <issuerbank>AMERIA</issuerbank>
+        <balance>100000</balance>
+    </account>
+</accounts>

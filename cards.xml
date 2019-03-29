@@ -1,0 +1,132 @@
+<!--<cards>
+    <card>
+        <personid>3</personid>
+        <cardnumber>549874</cardnumber>
+        <cardbrand>VISA</cardbrand>
+        <currency>USD</currency>
+        <issuerbank>AMERIA</issuerbank>
+        <cardholder>Miqayel Mirzoyan</cardholder>
+        <expiredate>25/12/21</expiredate>
+    </card>
+    <card>
+        <personid>2</personid>
+        <cardnumber>9745646544</cardnumber>
+        <cardbrand>VISA</cardbrand>
+        <currency>AMD</currency>
+        <issuerbank>EVOCA</issuerbank>
+        <cardholder>Hermine Mkrtchyan</cardholder>
+        <expiredate>17/01/25</expiredate>
+    </card>
+    <card>
+        <personid>1</personid>
+        <cardnumber>74565448</cardnumber>
+        <cardbrand>MASTERCARD</cardbrand>
+        <currency>EUR</currency>
+        <issuerbank>HSBC</issuerbank>
+        <cardholder>Hovhannes Zohrabyan</cardholder>
+        <expiredate>07/05/25</expiredate>
+    </card>
+</cards>-->
+
+<persons>
+    <person>
+        <personid>1</personid>
+        <personname>Hovhannes Zohrabyan</personname>
+        <cards>
+            <card>
+                <personid>1</personid>
+                <cardnumber>74565448</cardnumber>
+                <cardbrand>MASTERCARD</cardbrand>
+                <currency>EUR</currency>
+                <issuerbank>HSBC</issuerbank>
+                <cardholder>Hovhannes Zohrabyan</cardholder>
+                <expiredate>07/05/25</expiredate>
+            </card>
+            <card>
+                <personid>1</personid>
+                <cardnumber>9654987324</cardnumber>
+                <cardbrand>VISA</cardbrand>
+                <currency>AMD</currency>
+                <issuerbank>EVOCA</issuerbank>
+                <cardholder>Hovhannes Zohrabyan</cardholder>
+                <expiredate>17/01/25</expiredate>
+            </card>
+            <card>
+                <personid>1</personid>
+                <cardnumber>598797</cardnumber>
+                <cardbrand>VISA</cardbrand>
+                <currency>USD</currency>
+                <issuerbank>AMERIA</issuerbank>
+                <cardholder>Hovhannes Zohrabyan</cardholder>
+                <expiredate>25/12/21</expiredate>
+            </card>
+        </cards>
+    </person>
+    <person>
+        <personid>2</personid>
+        <personname>Hermine Mkrtchyan</personname>
+        <cards>
+            <card>
+                <personid>2</personid>
+                <cardnumber>74325448</cardnumber>
+                <cardbrand>MASTERCARD</cardbrand>
+                <currency>EUR</currency>
+                <issuerbank>HSBC</issuerbank>
+                <cardholder>Hermine Mkrtchyan</cardholder>
+                <expiredate>07/05/25</expiredate>
+            </card>
+            <card>
+                <personid>2</personid>
+                <cardnumber>9654988972</cardnumber>
+                <cardbrand>VISA</cardbrand>
+                <currency>AMD</currency>
+                <issuerbank>EVOCA</issuerbank>
+                <cardholder>Hermine Mkrtchyan</cardholder>
+                <expiredate>17/01/25</expiredate>
+            </card>
+            <card>
+                <personid>2</personid>
+                <cardnumber>598897</cardnumber>
+                <cardbrand>VISA</cardbrand>
+                <currency>USD</currency>
+                <issuerbank>AMERIA</issuerbank>
+                <cardholder>Hermine Mkrtchyan</cardholder>
+                <expiredate>25/12/21</expiredate>
+            </card>
+        </cards>
+    </person>
+    <person>
+        <personid>3</personid>
+        <personname>Miqayel Mirzoyan</personname>
+        <cards>
+            <card>
+                <personid>3</personid>
+                <cardnumber>74321448</cardnumber>
+                <cardbrand>MASTERCARD</cardbrand>
+                <currency>EUR</currency>
+                <issuerbank>HSBC</issuerbank>
+                <cardholder>Miqayel Mirzoyan</cardholder>
+                <expiredate>07/05/25</expiredate>
+            </card>
+            <card>
+                <personid>3</personid>
+                <cardnumber>9654654231</cardnumber>
+                <cardbrand>VISA</cardbrand>
+                <currency>AMD</currency>
+                <issuerbank>EVOCA</issuerbank>
+                <cardholder>Miqayel Mirzoyan</cardholder>
+                <expiredate>17/01/25</expiredate>
+            </card>
+            <card>
+                <personid>3</personid>
+                <cardnumber>521546</cardnumber>
+                <cardbrand>VISA</cardbrand>
+                <currency>USD</currency>
+                <issuerbank>AMERIA</issuerbank>
+                <cardholder>Miqayel Mirzoyan</cardholder>
+                <expiredate>25/12/21</expiredate>
+            </card>
+        </cards>
+    </person>
+
+</persons>
